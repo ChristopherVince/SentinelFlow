@@ -28,7 +28,7 @@ Nuestra prioridad fue crear un modelo ligero, rápido y preciso que pudiera corr
 3. **Resultados de Validación:** Logramos una precisión sobresaliente del **85%** en el entorno de validación (`int8` Quantized), con un F1 Score de 0.85, haciéndolo altamente confiable para evitar falsas alarmas.
 
 
-<div><img width="723" height="367" alt="edgeimpulse" src="https://github.com/user-attachments/assets/a2080504-7e40-41f7-994d-0b6c3a6d8a2f" align="center" /></div>
+<div align="center"><img width="723" height="367" alt="edgeimpulse" src="https://github.com/user-attachments/assets/a2080504-7e40-41f7-994d-0b6c3a6d8a2f" align="center" /></div>
 
 
 ---
