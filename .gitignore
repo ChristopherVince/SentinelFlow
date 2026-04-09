@@ -1,0 +1,6 @@
+# ignore app cache folder
+.cache/
+*.eim
+*.bak
+.cache/
+get-pip.py

@@ -1,0 +1,4 @@
+edge_impulse_linux==1.2.2
+opencv-python-headless
+Pillow
+pyserial
