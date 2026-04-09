@@ -28,7 +28,7 @@ Nuestra prioridad fue crear un modelo ligero, rápido y preciso que pudiera corr
 3. **Resultados de Validación:** Logramos una precisión sobresaliente del **85%** en el entorno de validación (`int8` Quantized), con un F1 Score de 0.85, haciéndolo altamente confiable para evitar falsas alarmas.
 
 *(Nota para el equipo: Inserta aquí la captura de pantalla de tu matriz de confusión de Edge Impulse)*
-`![Matriz de Confusión](ruta/a/tu/imagen.png)`
+`![Matriz de Confusión](edgeimpulse.png)`
 
 ---
 
